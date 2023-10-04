@@ -1,2 +1,2 @@
 FROM tomcat:8
-copy target/rbjunkin.war webapps/
+copy target/devops.war webapps/
